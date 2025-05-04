@@ -73,8 +73,8 @@ To identify fraudulent transactions using machine learning by training various c
 
 Hi, I'm M.Ammar Zahid, a passionate software engineering student and machine learning enthusiast. I enjoy working on projects that solve real-world problems using AI and data.
 
-   -[Github] [https://github.com/AMMAR1122-LG]
-   -[Linkedin][https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/]
+   -![Github](https://github.com/AMMAR1122-LG)
+   -![Linkedin](https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/)
   
 
 
